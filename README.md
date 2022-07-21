@@ -1,5 +1,9 @@
 # Recipes project
-Objectives : Develop my html/Markdown skills and use version control with git
+*Objectives* : 
+1. Setup a proper IDE (VSCode under Linux distro with good extensions) skills
+2. Develop my html skills and train with version control/commit messages
+3. Do a bit of Markdown
+4. Publish the page through GitHub
 ***
 ## Content :
 - index.html as main page with list of relative pages containing the recipes.
