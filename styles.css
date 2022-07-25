@@ -1,0 +1,23 @@
+/*
+Color palette:
+text : #403b36
+light accent : #a49683
+dark accent : #8d7b6b
+light background : #f6f7f5
+Main : #958e53;
+
+*/
+*{
+    background-color:#f6f7f5;
+    color: #403b36;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+
+h1 {
+    color: #958e53;
+    font-size: 50px
+}
+.recipes {
+    font-size: 25px;
+}
